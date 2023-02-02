@@ -8,6 +8,8 @@ https://www.raspberrypi.com/products/raspberry-pi-2-model-b/
 
 Raspberry Pi Camera Rev 1.3
 
+![picam_hardware](picam_hardware.jpg)
+
 ## Software
 
 Raspian GNU/Linux 8 (jessie)
